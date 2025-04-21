@@ -6,13 +6,14 @@
   },
   "browser_specific_settings": {
     "gecko": {
-      "strict_min_version": "100.0"
+      "strict_min_version": "100.0",
+      "id": "{77c158b5-de41-4aae-af23-1459b266e55b}"
     }
   },
-  "description": "Clean dark theme with chroma RGB lighting",
+  "description": "I like turquoise over black!",
   "developer": {
-    "name": "VoidTwo",
-    "url": "https://github.com/VoidTwo/Dark-Theme-Chroma-Firefox"
+    "name": "chazzofalf",
+    "url": "https://github.com/chazzofalf/Dark-Theme-Chroma-Firefox-Turquoise-Edition.git"
   },
   "icons": {
     "128": "icons/icon_128x128.png",
@@ -23,11 +24,11 @@
     "96": "icons/icon_96x96.png"
   },
   "manifest_version": 2,
-  "name": "Dark Theme Chroma",
+  "name": "Dark Theme Turquoise",
   "permissions": [
     "alarms",
     "theme"
   ],
-  "short_name": "Dark Chroma",
-  "version": "1.4"
+  "short_name": "Dark Turquoise",
+  "version": "1.1"
 }
